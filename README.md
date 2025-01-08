@@ -3,9 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Exemplo de E-mail Marketing</title>
+  <title> Exemplo de E-mail Marketing </title>
   <style>
-    /* Estilos gerais - Alguns clientes de e-mail ignoram isso */
     body {
       margin: 0;
       padding: 0;
@@ -18,14 +17,13 @@
     img {
       display: block;
       max-width: 100%;
-    }
+    } 
   </style>
 </head>
 <body style="margin: 0; padding: 0; background-color: #f4f4f4;">
   <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #f4f4f4; padding: 20px;">
     <tr>
       <td align="center">
-        <!-- Conteúdo principal do e-mail -->
         <table border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #ffffff; border-radius: 8px; overflow: hidden;">
           <tr>
             <td align="center" style="padding: 20px; background-color: #4CAF50; color: #ffffff; font-size: 24px; font-weight: bold;">
